@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConnectionUsingADO\ConnectionUsingADO\bin\Debug\ConnectionUsingADO.exe.config
+C:\Users\Administrator\source\repos\ConnectionUsingADO\ConnectionUsingADO\bin\Debug\ConnectionUsingADO.exe
+C:\Users\Administrator\source\repos\ConnectionUsingADO\ConnectionUsingADO\bin\Debug\ConnectionUsingADO.pdb
+C:\Users\Administrator\source\repos\ConnectionUsingADO\ConnectionUsingADO\obj\Debug\ConnectionUsingADO.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ConnectionUsingADO\ConnectionUsingADO\obj\Debug\ConnectionUsingADO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConnectionUsingADO\ConnectionUsingADO\obj\Debug\ConnectionUsingADO.exe
+C:\Users\Administrator\source\repos\ConnectionUsingADO\ConnectionUsingADO\obj\Debug\ConnectionUsingADO.pdb
